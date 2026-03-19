@@ -1,0 +1,1279 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "word",
+    "countConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "countType2": "none",
+    "countConfig2": {
+      "$sessionCountType": "word"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "labelOpacity": 0.75,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分/初中语文稳上130分五维体系.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1631,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.4366666666666665,
+      "characterCount": 3411,
+      "nonWhitespaceCharacterCount": 3196,
+      "newlineCount": 121,
+      "readingTimeInMinutes": 3.304566037735849,
+      "linkCount": 18,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885208329,
+      "modifiedDate": 1773890656735,
+      "sizeInBytes": 7732,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.4366666666666665,
+        "wordCount": 1631,
+        "characterCount": 3411,
+        "nonWhitespaceCharacterCount": 3196,
+        "newlineCount": 121
+      },
+      "frontmatter": {
+        "tags": [
+          "上海中考",
+          "语文提分",
+          "稳分策略"
+        ],
+        "summary": [
+          "稳分核心在于‘基础无漏洞、技巧烂熟化、习惯常态化’，聚焦书写、基础知识、现代文阅读、文言文迁移、作文五大模块",
+          "书写是隐性加分项，需达卷面3分标准（横平竖直、清晰整洁），直接影响阅卷效率与主观评分",
+          "阅读与作文必须模板化：按文体（记叙/说明/议论文）固化答题逻辑，作文强调老素材多主题迁移与持续打磨"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分/初中物理高分底层逻辑破译.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2706,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.02,
+      "characterCount": 4441,
+      "nonWhitespaceCharacterCount": 4121,
+      "newlineCount": 184,
+      "readingTimeInMinutes": 5.454566037735849,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885202673,
+      "modifiedDate": 1773890611498,
+      "sizeInBytes": 11246,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 9.02,
+        "wordCount": 2706,
+        "characterCount": 4441,
+        "nonWhitespaceCharacterCount": 4121,
+        "newlineCount": 184
+      },
+      "frontmatter": {
+        "tags": [
+          "初中物理",
+          "学习方法",
+          "学科思维"
+        ],
+        "summary": [
+          "物理本质是‘以物明理’：通过真实现象（物）探究背后规律（理），核心能力在于‘现实→模型’的翻译能力，而非单纯数学计算。",
+          "数学是物理的‘一条腿’，但决定高分的关键是情景化建模能力——尤其应对上海中考趋势：长题干、生活化、跨学科、隐性考点。",
+          "规范即分数：术语不严谨、公式缺条件、单位遗漏、作图失范等细节错误是低级丢分主因，需从日常作业起按中考标准训练。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/💡 06_教育宏观现象与深度洞察/高中生体育2小时困境的三重解构.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 751,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5033333333333334,
+      "characterCount": 2074,
+      "nonWhitespaceCharacterCount": 1992,
+      "newlineCount": 69,
+      "readingTimeInMinutes": 1.5250566037735849,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885218961,
+      "modifiedDate": 1773890667214,
+      "sizeInBytes": 4259,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.5033333333333334,
+        "wordCount": 751,
+        "characterCount": 2074,
+        "nonWhitespaceCharacterCount": 1992,
+        "newlineCount": 69
+      },
+      "frontmatter": {
+        "tags": [
+          "高三体育",
+          "睡眠剥夺",
+          "教育政策执行",
+          "不可能三角",
+          "体教融合"
+        ],
+        "summary": [
+          "‘体育2小时’在高三阶段遭遇现实性悖论：睡眠不足（普遍凌晨入睡）使强制锻炼沦为体能压榨；各校‘拉练/加课/跑操’等僵化执行忽视学生生理阈值，激化情绪对立；成绩、精力、体育构成高三专属‘不可能三角’，折射全人教育理想与应试现实的根本张力"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛 (数、理、化、生、信深度解析)/2026上海信息学奥赛省队选拔深度解析.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1302,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.34,
+      "characterCount": 2582,
+      "nonWhitespaceCharacterCount": 2486,
+      "newlineCount": 69,
+      "readingTimeInMinutes": 2.6713962264150943,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885209678,
+      "modifiedDate": 1773890564897,
+      "sizeInBytes": 6113,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.34,
+        "wordCount": 1302,
+        "characterCount": 2582,
+        "nonWhitespaceCharacterCount": 2486,
+        "newlineCount": 69
+      },
+      "frontmatter": {
+        "tags": [
+          "信奥",
+          "上海竞赛",
+          "省队选拔",
+          "上外附中",
+          "华二附中",
+          "曹杨二中"
+        ],
+        "summary": [
+          "2026年上海信奥省队15人名单揭晓，上外附中以5人（含2人A队+1名初中生）居首，华二附中4人、曹杨二中3人稳步上升，复附徐汇实现‘普通公办→名校→省队’逆袭突破；",
+          "上外附中凭借免中考政策优势，实施精品化小班培养、复合型教练天团（含IOI金牌教练）、语言+信息跨科融合路径，构建可持续竞赛竞争力；",
+          "上海信奥梯队格局固化中孕育新变：曹二崛起、上中缺席、交大附中守稳、复附徐汇破圈，反映‘生源基数≠竞赛产出’的教育质量跃迁逻辑。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/顶尖初中竞赛选拔逻辑与奥赛升学全链路图谱.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2194,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.3133333333333335,
+      "characterCount": 2905,
+      "nonWhitespaceCharacterCount": 2622,
+      "newlineCount": 175,
+      "readingTimeInMinutes": 4.4483018867924535,
+      "linkCount": 21,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885217628,
+      "modifiedDate": 1773890625347,
+      "sizeInBytes": 8494,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.3133333333333335,
+        "wordCount": 2194,
+        "characterCount": 2905,
+        "nonWhitespaceCharacterCount": 2622,
+        "newlineCount": 175
+      },
+      "frontmatter": {
+        "tags": [
+          "竞赛选拔",
+          "小升初冬令营",
+          "拉姆塞理论",
+          "强基综评",
+          "数学奥赛",
+          "清北保送"
+        ],
+        "summary": [
+          "全国头部初中（如文中清北率超66%的名校）已将小学高段冬令营实质化为‘前置选拔通道’，核心考察组合/数论等深奥竞赛能力，本质是锁定优质竞赛苗子。",
+          "奥赛能力具有强升学杠杆效应：从国家集训队保送、金牌两班三计划、银牌强基破格，到省奖综评/少年班/高考提分，形成覆盖K12全周期的‘竞赛-升学’闭环路径。",
+          "科学启动奥赛需满足双前提（学有余力+意愿驱动），并严守关键退出节点（初二未达竞赛入门、高一未达省二等奖），成功依赖三大支柱：系统化教研体系、真竞赛出身名师、可验证的学生成绩成果。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/第67届IMO中国集训队上海战绩深度解析.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 453,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.51,
+      "characterCount": 1532,
+      "nonWhitespaceCharacterCount": 1438,
+      "newlineCount": 59,
+      "readingTimeInMinutes": 0.948566037735849,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885221153,
+      "modifiedDate": 1773890527956,
+      "sizeInBytes": 3067,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.51,
+        "wordCount": 453,
+        "characterCount": 1532,
+        "nonWhitespaceCharacterCount": 1438,
+        "newlineCount": 59
+      },
+      "frontmatter": {
+        "tags": [
+          "IMO",
+          "数学竞赛",
+          "上海教育",
+          "奥赛集训",
+          "华育中学",
+          "上中",
+          "复附",
+          "华二"
+        ],
+        "summary": [
+          "上海以6人入选居全国首位，4人来自上海中学（初中均毕业于华育），体现顶尖初高衔接优势；",
+          "首次由中学（江苏天一中学）承办IMO国家集训，标志竞赛生态下沉与校本化培养升级；",
+          "SBL（上海民办立达中学？或指代某竞赛强校缩写，需核实）异军突起，陈骁喆（复附）、刘澈（华二）代表新生代黑马力量。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/牛娃数学思维培养的小班化路径与黄金窗口期.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 996,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.32,
+      "characterCount": 1233,
+      "nonWhitespaceCharacterCount": 1173,
+      "newlineCount": 47,
+      "readingTimeInMinutes": 2.0239245283018867,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885213646,
+      "modifiedDate": 1773890600968,
+      "sizeInBytes": 4005,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.32,
+        "wordCount": 996,
+        "characterCount": 1233,
+        "nonWhitespaceCharacterCount": 1173,
+        "newlineCount": 47
+      },
+      "frontmatter": {
+        "tags": [
+          "牛娃培养",
+          "数学思维",
+          "小班教学",
+          "升学机会",
+          "理科拔尖"
+        ],
+        "summary": [
+          "牛娃的升学优势正随‘四大Q班’‘五校联考’‘贯通计划’等新政回归，但选拔门槛已从知识掌握升维至高阶数学思维（浅奥/深奥）；",
+          "6人真小班是当前最适配牛娃数学思维训练的教学组织形式——主讲全程负责、实时互动、精准反馈、闭环巩固；",
+          "稀缺性构成新瓶颈：优质小班常满班排队，春季为关键入班窗口，低价旁听成家长决策前置触点。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/2026年NOI上海省队名单深度解析.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1749,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.83,
+      "characterCount": 12129,
+      "nonWhitespaceCharacterCount": 11816,
+      "newlineCount": 249,
+      "readingTimeInMinutes": 3.8172452830188677,
+      "linkCount": 17,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885215046,
+      "modifiedDate": 1773890539957,
+      "sizeInBytes": 16316,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.83,
+        "wordCount": 1749,
+        "characterCount": 12129,
+        "nonWhitespaceCharacterCount": 11816,
+        "newlineCount": 249
+      },
+      "frontmatter": {
+        "tags": [
+          "信息学竞赛",
+          "NOI",
+          "上海省队",
+          "信竞",
+          "奥赛"
+        ],
+        "summary": [
+          "2026年上海信息学奥赛省队共15人，分A（5人）、B（9人）、E（1人）三类，A类含国赛5分加分资格；",
+          "头部学校梯队清晰：上外5人（A2+B2+E1）、华二4人（A1+B3）、曹二3人（A1+B2），体现强校加工能力与持续输出力；",
+          "年级结构呈高一主导（8人）、高二次之（6人）、初三破格入选1人（E类上外），反映信竞低龄化选拔趋势与升学衔接价值。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/2026上海信奥省队深度解析与培养格局洞察.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2821,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.403333333333334,
+      "characterCount": 9037,
+      "nonWhitespaceCharacterCount": 8504,
+      "newlineCount": 328,
+      "readingTimeInMinutes": 5.835320754716982,
+      "linkCount": 24,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885206974,
+      "modifiedDate": 1773890579594,
+      "sizeInBytes": 15818,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 9.403333333333334,
+        "wordCount": 2821,
+        "characterCount": 9037,
+        "nonWhitespaceCharacterCount": 8504,
+        "newlineCount": 328
+      },
+      "frontmatter": {
+        "tags": [
+          "信奥竞赛",
+          "上海教育",
+          "省队名单",
+          "编程竞赛",
+          "初中强校",
+          "教辅推荐"
+        ],
+        "summary": [
+          "上海2026信奥省队15人中，上外附中（5人）、华二附中（4人）、曹杨二中（3人）占据80%，呈现‘华二-上外-曹二’三足鼎立格局；复附徐汇凭名额到校生逆袭斩获1席，凸显非传统路径潜力。",
+          "初中段上外附中以5人断层领先，华育、娄山、中国中学等多元生源校上榜，印证‘早培+政策兜底+生源流动’是信奥竞争力核心杠杆。",
+          "文中同步嵌入高适配性英语教辅推荐（华理社语法小粉书），强调其分阶设计、题型对标上海中考/高考、答案分离等实操优势，属跨学科升学支持资源。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏫 01_学校与区域解析/2_初中段/魔都小升初SMK动态深度复盘2024.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1193,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.9766666666666666,
+      "characterCount": 2868,
+      "nonWhitespaceCharacterCount": 2743,
+      "newlineCount": 95,
+      "readingTimeInMinutes": 2.515471698113208,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885205465,
+      "modifiedDate": 1773890591330,
+      "sizeInBytes": 6026,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.9766666666666666,
+        "wordCount": 1193,
+        "characterCount": 2868,
+        "nonWhitespaceCharacterCount": 2743,
+        "newlineCount": 95
+      },
+      "frontmatter": {
+        "tags": [
+          "SMK",
+          "小升初",
+          "上海民办初中",
+          "升学乱象",
+          "信息差"
+        ],
+        "summary": [
+          "SBL等一线理名校SMK呈现‘错峰、低调、小规模’特征，3月集中爆发四轮考试，凸显政策监管下隐性选拔的适应性变局；",
+          "题目聚焦小奥核心能力（数论、组合、逻辑推理），难度中等偏上，强调课内不覆盖但升学刚需的思维训练；",
+          "信息不对称成为关键门槛——假考频发、补录不定、渠道依赖加剧，普通家庭‘裸投’成功率持续走低，家长协同情报网络实质成为新刚需。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🏫 01_学校与区域解析/2_初中段/MH2择校决策深度指南.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2398,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.993333333333333,
+      "characterCount": 8030,
+      "nonWhitespaceCharacterCount": 7724,
+      "newlineCount": 218,
+      "readingTimeInMinutes": 4.992867924528301,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885222786,
+      "modifiedDate": 1773890636187,
+      "sizeInBytes": 13715,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.993333333333333,
+        "wordCount": 2398,
+        "characterCount": 8030,
+        "nonWhitespaceCharacterCount": 7724,
+        "newlineCount": 218
+      },
+      "frontmatter": {
+        "tags": [
+          "MH2",
+          "钱班",
+          "市招生",
+          "初升高择校",
+          "华二紫竹",
+          "竞赛培养"
+        ],
+        "summary": [
+          "MH2核心竞争力在于‘钱学森班’（钱班）及与华二紫竹的初高贯通培养体系，非表面蛇形分班所能掩盖；",
+          "钱班实行动态选拔与扩容机制（如29届首设钱A/钱B双班），教学分层明确：A班强竞赛导向，B班介于传统钱班与平行班之间；",
+          "是否选择MH2需三维锚定：对比标的校、家庭升学目标（竞赛/自招/DD营/中考）、孩子实际能力与进钱班概率，外区生须额外权衡通勤与中考排位风险。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/3_高考_强基综评/2025上海高考清北零志愿捡漏现象深度解析.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 553,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8433333333333333,
+      "characterCount": 767,
+      "nonWhitespaceCharacterCount": 718,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 1.1467924528301887,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885204087,
+      "modifiedDate": 1773890646354,
+      "sizeInBytes": 2556,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.8433333333333333,
+        "wordCount": 553,
+        "characterCount": 767,
+        "nonWhitespaceCharacterCount": 718,
+        "newlineCount": 25
+      },
+      "frontmatter": {
+        "tags": [
+          "上海高考",
+          "清北零志愿",
+          "屏蔽线",
+          "志愿填报策略",
+          "捡漏案例"
+        ],
+        "summary": [
+          "2025年上海高考屏蔽线为623分（前52名），但清华北大零志愿实际录取裸分最低达594分，暴露志愿填报惯性思维盲区；",
+          "清北零志愿总计划61人，最终裸分录取62人，说明存在超录与高分考生放弃约谈的动态博弈；",
+          "松江二中594分考生录取清华艺术史论，位次1939名，凸显‘小门’（复交热门专业）偏好对‘大门’（清北名校）机会的系统性低估。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考/杨浦区中考升学压力结构分析.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 777,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.59,
+      "characterCount": 2086,
+      "nonWhitespaceCharacterCount": 1923,
+      "newlineCount": 101,
+      "readingTimeInMinutes": 1.6001132075471698,
+      "linkCount": 17,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885212461,
+      "modifiedDate": 1773890690023,
+      "sizeInBytes": 4424,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.59,
+        "wordCount": 777,
+        "characterCount": 2086,
+        "nonWhitespaceCharacterCount": 1923,
+        "newlineCount": 101
+      },
+      "frontmatter": {
+        "tags": [
+          "上海中考",
+          "杨浦区升学",
+          "四校到区分数线",
+          "市重录取线",
+          "区域教育竞争"
+        ],
+        "summary": [
+          "杨浦虽拥华二、复附两所四校，但四校到区分数线显著低于其他卷区（如闵行、松江），头部竞争相对缓和；",
+          "区内三所市重（控江、杨高、同济一附）25年平行分集体上涨（+4.5至+10分），尤其杨高与同济一附跃升明显，加剧中部学生压力；",
+          "杨浦市重最低录取线达677.5分，高于黄浦（+25.5）、远超静安（+76.6），呈现‘头部宽松、中段窒息’的非对称内卷特征。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考/2026上海中考二模新政与学科难度深度解析.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1101,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.67,
+      "characterCount": 1595,
+      "nonWhitespaceCharacterCount": 1429,
+      "newlineCount": 119,
+      "readingTimeInMinutes": 2.2516603773584905,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885216302,
+      "modifiedDate": 1773890550464,
+      "sizeInBytes": 4615,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.67,
+        "wordCount": 1101,
+        "characterCount": 1595,
+        "nonWhitespaceCharacterCount": 1429,
+        "newlineCount": 119
+      },
+      "frontmatter": {
+        "tags": [
+          "上海中考",
+          "二模考试",
+          "政策变动",
+          "学科改革",
+          "志愿填报"
+        ],
+        "summary": [
+          "二模未取消但形式重构：各区延后、校本化组织、普遍不统批不排名，以等第制替代分数；",
+          "学科命题全面升级：语文新增非连续性文本，数学题量减少+压轴比重上升+‘综合与实践’板块首设，物化启用新教材、强情景应用，历史正式开卷考且重分析能力；",
+          "备考逻辑根本转变：依赖刷题失效，需从整体学情精准定位+动态策略调整，志愿填报更依赖多维评估而非单次排名。"
+        ],
+        "importance": "⭐⭐⭐⭐⭐"
+      }
+    },
+    "copilot/memory/Recent Conversations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 150,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5,
+      "characterCount": 244,
+      "nonWhitespaceCharacterCount": 230,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.31596226415094336,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773825640056,
+      "modifiedDate": 1773825640059,
+      "sizeInBytes": 564,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5,
+        "wordCount": 150,
+        "characterCount": 244,
+        "nonWhitespaceCharacterCount": 230,
+        "newlineCount": 4
+      }
+    },
+    "copilot/copilot-custom-prompts/Translate to Chinese.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 183,
+      "nonWhitespaceCharacterCount": 142,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351162,
+      "modifiedDate": 1773824351790,
+      "sizeInBytes": 369,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08,
+        "wordCount": 24,
+        "characterCount": 183,
+        "nonWhitespaceCharacterCount": 142,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1010,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Simplify.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 184,
+      "nonWhitespaceCharacterCount": 157,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351174,
+      "modifiedDate": 1773824351807,
+      "sizeInBytes": 370,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 184,
+        "nonWhitespaceCharacterCount": 157,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1030,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Summarize.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 121,
+      "nonWhitespaceCharacterCount": 102,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351167,
+      "modifiedDate": 1773824351800,
+      "sizeInBytes": 307,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06,
+        "wordCount": 18,
+        "characterCount": 121,
+        "nonWhitespaceCharacterCount": 102,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1020,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 144,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351235,
+      "modifiedDate": 1773824351865,
+      "sizeInBytes": 376,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 188,
+        "nonWhitespaceCharacterCount": 144,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": false,
+        "copilot-command-slash-enabled": false,
+        "copilot-command-context-menu-order": 1110,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 233,
+      "newlineCount": 12,
+      "readingTimeInMinutes": 0.18490566037735848,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351243,
+      "modifiedDate": 1773824351872,
+      "sizeInBytes": 500,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16333333333333333,
+        "wordCount": 49,
+        "characterCount": 312,
+        "nonWhitespaceCharacterCount": 233,
+        "newlineCount": 12
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": false,
+        "copilot-command-slash-enabled": false,
+        "copilot-command-context-menu-order": 1120,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Remove URLs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 159,
+      "nonWhitespaceCharacterCount": 132,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351227,
+      "modifiedDate": 1773824351859,
+      "sizeInBytes": 347,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 159,
+        "nonWhitespaceCharacterCount": 132,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": false,
+        "copilot-command-slash-enabled": false,
+        "copilot-command-context-menu-order": 1100,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Make shorter.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 187,
+      "nonWhitespaceCharacterCount": 142,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.10566037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351198,
+      "modifiedDate": 1773824351829,
+      "sizeInBytes": 373,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09333333333333334,
+        "wordCount": 28,
+        "characterCount": 187,
+        "nonWhitespaceCharacterCount": 142,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1060,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Make longer.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 193,
+      "nonWhitespaceCharacterCount": 147,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351208,
+      "modifiedDate": 1773824351837,
+      "sizeInBytes": 379,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09666666666666666,
+        "wordCount": 29,
+        "characterCount": 193,
+        "nonWhitespaceCharacterCount": 147,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1070,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Generate table of contents.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 169,
+      "nonWhitespaceCharacterCount": 142,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351215,
+      "modifiedDate": 1773824351844,
+      "sizeInBytes": 357,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 169,
+        "nonWhitespaceCharacterCount": 142,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": false,
+        "copilot-command-slash-enabled": false,
+        "copilot-command-context-menu-order": 1080,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Generate glossary.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 165,
+      "nonWhitespaceCharacterCount": 141,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351221,
+      "modifiedDate": 1773824351849,
+      "sizeInBytes": 353,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 165,
+        "nonWhitespaceCharacterCount": 141,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": false,
+        "copilot-command-slash-enabled": false,
+        "copilot-command-context-menu-order": 1090,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 164,
+      "nonWhitespaceCharacterCount": 137,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351155,
+      "modifiedDate": 1773824351784,
+      "sizeInBytes": 350,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 164,
+        "nonWhitespaceCharacterCount": 137,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1000,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Explain like I am 5.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 202,
+      "nonWhitespaceCharacterCount": 158,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351185,
+      "modifiedDate": 1773824351813,
+      "sizeInBytes": 388,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 202,
+        "nonWhitespaceCharacterCount": 158,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1040,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Emojify.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 46,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 284,
+      "nonWhitespaceCharacterCount": 217,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.17358490566037735,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351192,
+      "modifiedDate": 1773824351819,
+      "sizeInBytes": 470,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15333333333333332,
+        "wordCount": 46,
+        "characterCount": 284,
+        "nonWhitespaceCharacterCount": 217,
+        "newlineCount": 7
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": true,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1050,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 235,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7833333333333333,
+      "characterCount": 1724,
+      "nonWhitespaceCharacterCount": 1419,
+      "newlineCount": 63,
+      "readingTimeInMinutes": 0.8867924528301887,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1773824351251,
+      "modifiedDate": 1773824351877,
+      "sizeInBytes": 1911,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7833333333333333,
+        "wordCount": 235,
+        "characterCount": 1724,
+        "nonWhitespaceCharacterCount": 1419,
+        "newlineCount": 63
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": false,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1130,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "copilot/copilot-custom-prompts/Clip Web Page.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 184,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6133333333333333,
+      "characterCount": 1206,
+      "nonWhitespaceCharacterCount": 968,
+      "newlineCount": 49,
+      "readingTimeInMinutes": 0.6943396226415094,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773824351256,
+      "modifiedDate": 1773824351888,
+      "sizeInBytes": 1393,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6133333333333333,
+        "wordCount": 184,
+        "characterCount": 1206,
+        "nonWhitespaceCharacterCount": 968,
+        "newlineCount": 49
+      },
+      "frontmatter": {
+        "copilot-command-context-menu-enabled": false,
+        "copilot-command-slash-enabled": true,
+        "copilot-command-context-menu-order": 1140,
+        "copilot-command-model-key": "",
+        "copilot-command-last-used": 0
+      }
+    },
+    "Scripts/batch_categorize.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773829895857,
+      "modifiedDate": 1773831641203,
+      "sizeInBytes": 4948,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Scripts/auto_categorize.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1773828170903,
+      "modifiedDate": 1773831639183,
+      "sizeInBytes": 5109,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评/港大张江S6200项目深度解析.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2818,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.393333333333333,
+      "characterCount": 4201,
+      "nonWhitespaceCharacterCount": 3983,
+      "newlineCount": 145,
+      "readingTimeInMinutes": 5.77433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773885211106,
+      "modifiedDate": 1773900062489,
+      "sizeInBytes": 10191,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    }
+  }
+}

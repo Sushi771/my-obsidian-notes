@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "e8cade9f3773f5d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b04d0909a407b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e0095051962ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评/港大张江S6200项目深度解析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "港大张江S6200项目深度解析"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfcb97110a88c897",
+    "type": "split",
+    "children": [
+      {
+        "id": "047799b0d4ad3ea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0891b433c650251a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6beb454b5b8125b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "74438e160499b5e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "d35f54c9dbe61ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "66619ab196512b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e2e85e2fc0dc12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评/港大张江校区与上海高考生升学新选项深度分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "港大张江校区与上海高考生升学新选项深度分析 的反向链接列表"
+            }
+          },
+          {
+            "id": "e5fb2942ab37ebd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评/港大张江校区与上海高考生升学新选项深度分析.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "港大张江校区与上海高考生升学新选项深度分析 的出链列表"
+            }
+          },
+          {
+            "id": "035076293c531e5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "430a0d064dba5e4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3206f95d390e6d3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评/港大张江校区与上海高考生升学新选项深度分析.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "港大张江校区与上海高考生升学新选项深度分析 的大纲"
+            }
+          },
+          {
+            "id": "b80c549dc9aec076",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "56ca53a7ea28310d",
+            "type": "leaf",
+            "state": {
+              "type": "wewrite-article-preview",
+              "state": {},
+              "icon": "pen-tool",
+              "title": "WeWrite预览器"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "wewrite:WeWrite": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "0891b433c650251a",
+  "lastOpenFiles": [
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考/杨浦区中考升学压力结构分析.md",
+    "旦旦营.md",
+    "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评",
+    "已分类文章/🎓 03_升学路径与政策规划",
+    "已分类文章/💡 06_教育宏观现象与深度洞察",
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/3_高考_强基综评",
+    "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分",
+    "已分类文章/📚 04_学习方法与提分干货",
+    "已分类文章/🏫 01_学校与区域解析/2_初中段",
+    "已分类文章/🏫 01_学校与区域解析",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛 (数、理、化、生、信深度解析)",
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛 (数、理、化、生、信深度解析)/第67届IMO中国集训队上海入选分析.md",
+    "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评/港大张江S6200项目深度解析.md",
+    "已分类文章/💡 06_教育宏观现象与深度洞察/高中生体育2小时困境的三重解构.md",
+    "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分/初中语文稳上130分五维体系.md",
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/3_高考_强基综评/2025上海高考清北零志愿捡漏现象深度解析.md",
+    "已分类文章/🏫 01_学校与区域解析/2_初中段/MH2择校决策深度指南.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/顶尖初中竞赛选拔逻辑与奥赛升学全链路图谱.md",
+    "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分/初中物理高分底层逻辑破译.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/牛娃数学思维培养的小班化路径与黄金窗口期.md",
+    "已分类文章/🏫 01_学校与区域解析/2_初中段/魔都小升初SMK动态深度复盘2024.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/2026上海信奥省队深度解析与培养格局洞察.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛 (数、理、化、生、信深度解析)/2026上海信息学奥赛省队选拔深度解析.md",
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考/2026上海中考二模新政与学科难度深度解析.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/2026年NOI上海省队名单深度解析.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/第67届IMO中国集训队上海战绩深度解析.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事 (按参赛年龄段严格划分)/3_高中段五大奥赛 (数、理、化、生、信深度解析)/2026 NOI上海省队名单公布，上外5、华二4、曹二3人进队.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/1_小学段赛事/AMC8双线制解析与小升初竞争力定位.md",
+    "已分类文章/🏆 02_学科竞赛与白名单赛事 (按参赛年龄段严格划分)/3_高中段五大奥赛 (数、理、化、生、信深度解析)/2026年IMO国集选拔最新名单公布！上海最终会有几人晋级？.md",
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考 (名额分配、自招政策)/2026上海7区体育中考时间.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/copilot-conversations/你好@20260318_171538.md",
+    "copilot/copilot-conversations/公众号的文章（待分类）_帮我分类下这个文件夹里的内容@20260318_172119.md",
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考 (名额分配、自招政策)/2026上海升学政策即将发布！居住证办理时间不要推迟到4、5月，非沪籍子女可能无法在沪上学！.md",
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考 (名额分配、自招政策)/2026中考二模不进行区排？没有成绩？中考难度大、变动多，如何破局？.md",
+    "a321565e52981647c38217e571d1fada_MD5.gif",
+    "7af9b365ad61cf55ea2326ca51d7f825_MD5.jpg",
+    "42d0820adedc633ae1dfc3d42410ac02_MD5.webp",
+    "f662155e8d323eac3f80232000fac4f0_MD5.webp",
+    "2093658902f353cfb69fd32a19c4789c_MD5.gif",
+    "dffd7316342ba4cc05bbcc833cf44606_MD5.jpg",
+    "19b2995e3b31cc144659e6b4e89ddb93_MD5.jpg",
+    "6f7a3bf13dc58964670533599495e703_MD5.webp",
+    "17ef707c35850e04db9949388981de59_MD5.webp"
+  ]
+}

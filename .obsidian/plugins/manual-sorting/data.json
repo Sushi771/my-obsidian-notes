@@ -1,0 +1,163 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "已分类文章",
+        "Scripts",
+        "公众号的文章（待分类）",
+        "copilot"
+      ],
+      "sortOrder": "custom"
+    },
+    "公众号的文章（待分类）": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "已分类文章": {
+      "children": [
+        "已分类文章/🎓 03_升学路径与政策规划",
+        "已分类文章/🏆 02_学科竞赛与白名单赛事",
+        "已分类文章/🏫 01_学校与区域解析",
+        "已分类文章/💡 06_教育宏观现象与深度洞察",
+        "已分类文章/📚 04_学习方法与提分干货",
+        "已分类文章/🎓 03_升学路径与政策规划 (节点战役)"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🎓 03_升学路径与政策规划": {
+      "children": [
+        "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评": {
+      "children": [
+        "已分类文章/🎓 03_升学路径与政策规划/3_高考_强基综评/港大张江S6200项目深度解析.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)": {
+      "children": [
+        "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考",
+        "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/3_高考_强基综评"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考": {
+      "children": [
+        "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考/2026上海中考二模新政与学科难度深度解析.md",
+        "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/2_初升高_中考/杨浦区中考升学压力结构分析.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/3_高考_强基综评": {
+      "children": [
+        "已分类文章/🎓 03_升学路径与政策规划 (节点战役)/3_高考_强基综评/2025上海高考清北零志愿捡漏现象深度解析.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事": {
+      "children": [
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛",
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛 (数、理、化、生、信深度解析)"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛": {
+      "children": [
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/2026年NOI上海省队名单深度解析.md",
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/2026上海信奥省队深度解析与培养格局洞察.md",
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/第67届IMO中国集训队上海战绩深度解析.md",
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/顶尖初中竞赛选拔逻辑与奥赛升学全链路图谱.md",
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛/牛娃数学思维培养的小班化路径与黄金窗口期.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛 (数、理、化、生、信深度解析)": {
+      "children": [
+        "已分类文章/🏆 02_学科竞赛与白名单赛事/3_高中段五大奥赛 (数、理、化、生、信深度解析)/2026上海信息学奥赛省队选拔深度解析.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🏫 01_学校与区域解析": {
+      "children": [
+        "已分类文章/🏫 01_学校与区域解析/2_初中段"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/🏫 01_学校与区域解析/2_初中段": {
+      "children": [
+        "已分类文章/🏫 01_学校与区域解析/2_初中段/魔都小升初SMK动态深度复盘2024.md",
+        "已分类文章/🏫 01_学校与区域解析/2_初中段/MH2择校决策深度指南.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/💡 06_教育宏观现象与深度洞察": {
+      "children": [
+        "已分类文章/💡 06_教育宏观现象与深度洞察/高中生体育2小时困境的三重解构.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/📚 04_学习方法与提分干货": {
+      "children": [
+        "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分"
+      ],
+      "sortOrder": "custom"
+    },
+    "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分": {
+      "children": [
+        "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分/初中物理高分底层逻辑破译.md",
+        "已分类文章/📚 04_学习方法与提分干货/2_中学_应试与提分/初中语文稳上130分五维体系.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "copilot": {
+      "children": [
+        "copilot/memory",
+        "copilot/copilot-conversations",
+        "copilot/copilot-custom-prompts"
+      ],
+      "sortOrder": "custom"
+    },
+    "copilot/copilot-conversations": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "copilot/copilot-custom-prompts": {
+      "children": [
+        "copilot/copilot-custom-prompts/Clip Web Page.md",
+        "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+        "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+        "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+        "copilot/copilot-custom-prompts/Remove URLs.md",
+        "copilot/copilot-custom-prompts/Generate glossary.md",
+        "copilot/copilot-custom-prompts/Generate table of contents.md",
+        "copilot/copilot-custom-prompts/Make longer.md",
+        "copilot/copilot-custom-prompts/Make shorter.md",
+        "copilot/copilot-custom-prompts/Emojify.md",
+        "copilot/copilot-custom-prompts/Explain like I am 5.md",
+        "copilot/copilot-custom-prompts/Simplify.md",
+        "copilot/copilot-custom-prompts/Summarize.md",
+        "copilot/copilot-custom-prompts/Translate to Chinese.md",
+        "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "copilot/memory": {
+      "children": [
+        "copilot/memory/Recent Conversations.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Scripts": {
+      "children": [
+        "Scripts/batch_categorize.js",
+        "Scripts/auto_categorize.js"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

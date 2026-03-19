@@ -1,0 +1,990 @@
+{
+  "choices": [
+    {
+      "id": "6a2046a1-f8f4-4e45-b3b6-59e6a5b076b3",
+      "name": "✨ AI自动归类",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": true,
+      "macro": {
+        "name": "✨ AI自动归类",
+        "id": "8bedf9c7-bdd3-4371-a8ac-e0a2f355290a",
+        "commands": [
+          {
+            "name": "auto_categorize",
+            "type": "UserScript",
+            "id": "f6f1a636-4b16-4d24-a070-bc68a87349c8",
+            "path": "Scripts/auto_categorize.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "c86ba65c-43a0-491b-832a-e32805a8595c",
+      "name": "📦 批量处理",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": true,
+      "macro": {
+        "name": "📦 批量处理",
+        "id": "5f682a55-c537-4edf-bc48-cfdfa2af6e28",
+        "commands": [
+          {
+            "name": "batch_categorize",
+            "type": "UserScript",
+            "id": "d908c5c0-d009-411d-9600-b14b4c6d802b",
+            "path": "Scripts/batch_categorize.js",
+            "settings": {}
+          }
+        ]
+      }
+    }
+  ],
+  "inputPrompt": "single-line",
+  "persistInputPromptDrafts": true,
+  "useSelectionAsCaptureValue": true,
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": "major",
+  "version": "2.12.0",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": false,
+  "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
+  "enableTemplatePropertyTypes": false,
+  "dateAliases": {
+    "t": "today",
+    "tm": "tomorrow",
+    "yd": "yesterday",
+    "nw": "next week",
+    "nm": "next month",
+    "ny": "next year",
+    "lw": "last week",
+    "lm": "last month",
+    "ly": "last year"
+  },
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ],
+        "autoSyncModels": false,
+        "modelSource": "modelsDev"
+      },
+      {
+        "name": "Gemini",
+        "endpoint": "https://generativelanguage.googleapis.com",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gemini-1.5-pro",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash-8b",
+            "maxTokens": 1000000
+          }
+        ],
+        "autoSyncModels": false,
+        "modelSource": "modelsDev"
+      },
+      {
+        "name": "阿里云百炼",
+        "endpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "apiKey": "",
+        "apiKeyRef": "albl",
+        "models": [
+          {
+            "name": "qwen-plus",
+            "maxTokens": 10000000
+          },
+          {
+            "name": "qwen-image-2.0-2026-03-03",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-2.0-pro",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-2.0-pro-2026-03-03",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-2.0",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-asr-flash-2026-02-10",
+            "maxTokens": 128000
+          },
+          {
+            "name": "glm-5",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-flash-character-2026-02-26",
+            "maxTokens": 128000
+          },
+          {
+            "name": "MiniMax-M2.5",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-flash-2026-02-23",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-122b-a10b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-35b-a3b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-27b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-coder-next",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-397b-a17b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-plus-2026-02-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3.5-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-asr-flash-realtime-2026-02-10",
+            "maxTokens": 128000
+          },
+          {
+            "name": "MiniMax/MiniMax-M2.1",
+            "maxTokens": 128000
+          },
+          {
+            "name": "MiniMax/MiniMax-M2.5",
+            "maxTokens": 128000
+          },
+          {
+            "name": "kimi/kimi-k2.5",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-vd-2026-01-26",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-instruct-flash-2026-01-26",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-instruct-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-vc-2026-01-22",
+            "maxTokens": 128000
+          },
+          {
+            "name": "glm-4.7",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-max",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-instruct-flash-realtime-2026-01-22",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-instruct-flash-realtime",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-vd-realtime-2026-01-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "kimi-k2.5",
+            "maxTokens": 128000
+          },
+          {
+            "name": "tongyi-xiaomi-analysis-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "tongyi-xiaomi-analysis-pro",
+            "maxTokens": 128000
+          },
+          {
+            "name": "siliconflow/deepseek-v3.2",
+            "maxTokens": 128000
+          },
+          {
+            "name": "siliconflow/deepseek-v3.1-terminus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "siliconflow/deepseek-v3-0324",
+            "maxTokens": 128000
+          },
+          {
+            "name": "siliconflow/deepseek-r1-0528",
+            "maxTokens": 128000
+          },
+          {
+            "name": "MiniMax-M2.1",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-vl-flash-2026-01-22",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-max-2026-01-23",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-vc-realtime-2026-01-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-edit-max-2026-01-16",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-edit-max",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-plus-2026-01-09",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-flash-character",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-max-2025-12-30",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-max",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "z-image-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-vl-plus-2025-12-19",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-vd-realtime-2025-12-16",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-edit-plus-2025-12-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-v3.2",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-omni-flash-2025-12-01",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-omni-flash-realtime-2025-12-01",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-livetranslate-flash-2025-12-01",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-livetranslate-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-plus-2025-12-01",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-vc-realtime-2025-11-27",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-flash-2025-11-27",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-flash-realtime-2025-11-27",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-plus-2025-11-05",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-mt-lite",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-ocr-2025-11-20",
+            "maxTokens": 128000
+          },
+          {
+            "name": "kimi-k2-thinking",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-mt-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gui-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-edit-plus-2025-10-30",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-image-edit-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-deep-search-planning",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-asr-flash-realtime-2025-10-27",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-asr-flash-realtime",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-vl-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-vl-flash-2025-10-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-flash-2025-09-18",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-flash-realtime-2025-09-18",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-tts-flash-realtime",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-omni-flash-realtime",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-omni-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-omni-flash-2025-09-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-omni-flash-realtime-2025-09-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-s2s-flash-realtime-2025-09-22",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-livetranslate-flash-realtime",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-livetranslate-flash-realtime-2025-09-22",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-14b-instruct-1m",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-7b-instruct-1m",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max-2025-01-25",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-turbo-2024-11-01",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-plus-2025-01-25",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwq-plus-2025-03-05",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwq-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-vl-32b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qvq-max",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-omni-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-turbo-2025-04-28",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-plus-2025-04-28",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-max-2025-04-08",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-plus-2025-01-25",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-plus-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-max-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-plus-2025-05-07",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-turbo-2025-07-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-235b-a22b-instruct-2507",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-235b-a22b-thinking-2507",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-30b-a3b-thinking-2507",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-30b-a3b-instruct-2507",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-coder-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-coder-plus-2025-09-23",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-max-2025-09-23",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-vl-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-vl-plus-2025-09-23",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-plus-2025-09-11",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-next-80b-a3b-thinking",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-next-80b-a3b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-max-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-v3.1",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-plus-2025-08-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-coder-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-coder-plus-2025-07-22",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-plus-2025-07-14",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-coder-480b-a35b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-mt-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-mt-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-tts-2025-05-22",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qvq-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qvq-plus-2025-05-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qvq-max-2025-05-15",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-4b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-32b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-30b-a3b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-235b-a22b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-14b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-1.7b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-0.6b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen3-8b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-max-2025-04-02",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-v3",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-r1-distill-llama-70b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-r1-distill-qwen-32b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-r1-distill-qwen-14b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-r1-distill-llama-8b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-r1-distill-qwen-1.5b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-r1-distill-qwen-7b",
+            "maxTokens": 128000
+          },
+          {
+            "name": "deepseek-r1",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen1.5-7b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-ocr-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-ocr",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-coder-plus-1106",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-coder-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-coder-plus-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-coder-3b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-coder-0.5b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-coder-14b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-coder-32b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-1.5b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-math-turbo-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-math-72b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-7b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-14b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-0.5b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-math-turbo-0919",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-math-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-turbo-0919",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max-0919",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-coder-turbo-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-math-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-math-plus-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-math-plus-0919",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-coder-turbo-0919",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-coder-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-math-7b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-coder-7b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-72b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-32b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-math-1.5b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-turbo-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-plus-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max-latest",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2.5-3b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2-7b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2-57b-a14b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2-1.5b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen2-0.5b-instruct",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-long",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-max",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-vl-plus",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max-0428",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen1.5-110b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-1.8b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-1.8b-longcontext-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-7b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-14b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-72b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "codeqwen1.5-7b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen1.5-0.5b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen1.5-14b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen1.5-72b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen1.5-32b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max-1201",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max-longcontext",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen1.5-1.8b-chat",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max",
+            "maxTokens": 128000
+          },
+          {
+            "name": "qwen-max-0107",
+            "maxTokens": 128000
+          }
+        ],
+        "modelSource": "providerApi",
+        "autoSyncModels": true
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true,
+    "backfillFileOpeningDefaults": true,
+    "setProviderModelDiscoveryMode": true,
+    "migrateProviderApiKeysToSecretStorage": true
+  }
+}
