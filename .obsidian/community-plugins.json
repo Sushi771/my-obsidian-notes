@@ -10,5 +10,6 @@
   "text-extractor",
   "copilot",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "oz-clear-unused-images"
 ]
