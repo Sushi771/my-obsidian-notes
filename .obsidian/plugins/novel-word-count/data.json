@@ -28603,6 +28603,37 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "公众号的文章（待分类）/xiaohongshu-parent-edu-SKILL-NEW.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5441,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 18.136666666666667,
+      "characterCount": 7420,
+      "nonWhitespaceCharacterCount": 6930,
+      "newlineCount": 357,
+      "readingTimeInMinutes": 11.171094339622641,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1777347684319,
+      "modifiedDate": 1777347684321,
+      "sizeInBytes": 20150,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "name": "xiaohongshu-parent-edu",
+        "description": "将教育类内容重写为小红书风格的家长向文案，去AI化、口语化、接地气。适用场景：用户提供一段教育内容原文（升学、补课、学科选择、考试策略等），要求改写成小红书风格；用户说\"帮我去AI化\"、\"写成小红书口吻\"、\"改成家长能看的\"、\"小红书文案\"；用户提供数据/附件并要求结合写作。只要涉及家长教育内容的小红书改写，必须使用此 skill，哪怕用户只说\"帮我改一下语气\"或\"写得随意一点\"。"
+      }
     }
   }
 }
